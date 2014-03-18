@@ -1,4 +1,4 @@
-Project-Euler-OCaml
+Project Euler OCaml
 ===================
 
 Project Euler in OCaml
